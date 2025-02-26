@@ -1,159 +1,159 @@
-neighbourhood_name,neighbourhood_number,2020_median_income
-West Humber-Clairville,1,33600
-Mount Olive-Silverstone-Jamestown,2,29600
-Thistletown-Beaumond Heights,3,32800
-Rexdale-Kipling,4,33600
-Elms-Old Rexdale,5,34400
-Kingsview Village-The Westway,6,34400
-Willowridge-Martingrove-Richview,7,40800
-Humber Heights-Westmount,8,40400
-Edenbridge-Humber Valley,9,48400
-Princess-Rosethorn,10,58800
-Eringate-Centennial-West Deane,11,44400
-Markland Wood,12,46800
-Etobicoke West Mall,13,39200
-Kingsway South,15,74500
-Stonegate-Queensway,16,48400
-New Toronto,18,37600
-Long Branch,19,46000
-Alderwood,20,45200
-Humber Summit,21,31200
-Humbermede,22,32400
-Pelmo Park-Humberlea,23,39600
-Black Creek,24,29400
-Glenfield-Jane Heights,25,30400
-York University Heights,27,32400
-Rustic,28,31400
-Maple Leaf,29,37200
-Brookhaven-Amesbury,30,34400
-Yorkdale-Glen Park,31,36400
-Englemount-Lawrence,32,37200
-Clanton Park,33,42000
-Bathurst Manor,34,37600
-Westminster-Branson,35,33600
-Newtonbrook West,36,32800
-Willowdale West,37,37600
-Lansing-Westgate,38,45200
-Bedford Park-Nortown,39,54000
-St.Andrew-Windfields,40,46400
-Bridle Path-Sunnybrook-York Mills,41,72000
-Banbury-Don Mills,42,46400
-Victoria Village,43,34000
-Flemingdon Park,44,30400
-Pleasant View,46,34400
-Don Valley Village,47,34800
-Hillcrest Village,48,34400
-Bayview Woods-Steeles,49,38000
-Newtonbrook East,50,34000
-Bayview Village,52,43200
-Henry Farm,53,38400
-O`Connor Parkview,54,37600
-Thorncliffe Park,55,29400
-Leaside-Bennington,56,64000
-Broadview North,57,38800
-Old East York,58,44400
-Danforth-East York,59,46400
-Woodbine-Lumsden,60,46400
-Taylor Massey,61,32400
-East End Danforth,62,46000
-The Beaches,63,61200
-Woodbine Corridor,64,50000
-Greenwood-Coxwell,65,44800
-Danforth,66,46400
-Playter Estates-Danforth,67,49200
-North Riverdale,68,54400
-Blake-Jones,69,38400
-South Riverdale,70,48800
-Cabbagetown-South St. James Town,71,46800
-Regent Park,72,33200
-Moss Park,73,42800
-North St. James Town,74,33600
-Kensington-Chinatown,78,32400
-University,79,43200
-Palmerston-Little Italy,80,43200
-Trinity-Bellwoods,81,40400
-Dufferin Grove,83,40800
-Little Portugal,84,46000
-South Parkdale,85,35200
-Roncesvalles,86,45600
-High Park-Swansea,87,56400
-High Park North,88,48400
-Runnymede-Bloor West Village,89,60400
-Junction Area,90,47200
-Weston-Pelham Park,91,35600
-Corso Italia-Davenport,92,41200
-Wychwood,94,43600
-Annex,95,51600
-Casa Loma,96,60000
-Yonge-St. Clair,97,62400
-Rosedale-Moore Park,98,67500
-Mount Pleasant East,99,58400
-Yonge-Eglinton,100,55200
-Forest Hill South,101,61600
-Forest Hill North,102,44400
-Lawrence Park South,103,67500
-Lawrence Park North,105,68000
-Humewood-Cedarvale,106,45200
-Oakwood Village,107,37600
-Briar Hill-Belgravia,108,37200
-Caledonia-Fairbank,109,37200
-Keelesdale-Eglinton West,110,33200
-Rockcliffe-Smythe,111,34400
-Beechborough-Greenbrook,112,34000
-Weston,113,34800
-Lambton Baby Point,114,48800
-Mount Dennis,115,34800
-Steeles,116,29200
-Tam O'Shanter-Sullivan,118,32800
-Wexford/Maryvale,119,35200
-Clairlea-Birchmount,120,36800
-Oakridge,121,29400
-Birchcliffe-Cliffside,122,44000
-Cliffcrest,123,38000
-Kennedy Park,124,32000
-Ionview,125,34000
-Dorset Park,126,33200
-Agincourt South-Malvern West,128,32000
-Agincourt North,129,30000
-Milliken,130,28400
-Centennial Scarborough,133,48800
-Highland Creek,134,36400
-Morningside,135,34400
-West Hill,136,33200
-Eglinton East,138,33200
-Scarborough Village,139,32400
-Guildwood,140,48000
-Golfdale-Cedarbrae-Woburn,141,31200
-Woburn North,142,32400
-West Rouge,143,42000
-Morningside Heights,144,34800
-Malvern West,145,31600
-Malvern East,146,33200
-L'Amoreaux West,147,31400
-East L'Amoreaux,148,31000
-Parkwoods-O'Connor Hills,149,39200
-Fenside-Parkwoods,150,36000
-Yonge-Doris,151,36400
-East Willowdale,152,36800
-Avondale,153,46400
-Oakdale-Beverley Heights,154,33600
-Downsview,155,37600
-Bendale-Glen Andrew,156,34000
-Bendale South,157,33200
-Islington,158,45600
-Etobicoke City Centre,159,46000
-Mimico-Queensway,160,45200
-Humber Bay Shores,161,53200
-West Queen West,162,65500
-Fort York-Liberty Village,163,64500
-Wellington Place,164,67000
-Harbourfront-CityPlace,165,58800
-St Lawrence-East Bayfront-The Islands,166,58000
-Church-Wellesley,167,42800
-Downtown Yonge East,168,45200
-Bay-Cloverhill,169,39600
-Yonge-Bay Corridor,170,44000
-Junction-Wallace Emerson,171,41200
-Dovercourt Village,172,38000
-North Toronto,173,46000
-South Eglinton-Davisville,174,52400
+nbh_name,med_inc
+westhumberclairville,33600
+mountolivesilverstonejamestown,29600
+thistletownbeaumondheights,32800
+rexdalekipling,33600
+elmsoldrexdale,34400
+kingsviewvillagethewestway,34400
+willowridgemartingroverichview,40800
+humberheightswestmount,40400
+edenbridgehumbervalley,48400
+princessrosethorn,58800
+eringatecentennialwestdeane,44400
+marklandwood,46800
+etobicokewestmall,39200
+kingswaysouth,74500
+stonegatequeensway,48400
+newtoronto,37600
+longbranch,46000
+alderwood,45200
+humbersummit,31200
+humbermede,32400
+pelmoparkhumberlea,39600
+blackcreek,29400
+glenfieldjaneheights,30400
+yorkuniversityheights,32400
+rustic,31400
+mapleleaf,37200
+brookhavenamesbury,34400
+yorkdaleglenpark,36400
+englemountlawrence,37200
+clantonpark,42000
+bathurstmanor,37600
+westminsterbranson,33600
+newtonbrookwest,32800
+willowdalewest,37600
+lansingwestgate,45200
+bedfordparknortown,54000
+standrewwindfields,46400
+bridlepathsunnybrookyorkmills,72000
+banburydonmills,46400
+victoriavillage,34000
+flemingdonpark,30400
+pleasantview,34400
+donvalleyvillage,34800
+hillcrestvillage,34400
+bayviewwoodssteeles,38000
+newtonbrookeast,34000
+bayviewvillage,43200
+henryfarm,38400
+oconnorparkview,37600
+thorncliffepark,29400
+leasidebennington,64000
+broadviewnorth,38800
+oldeastyork,44400
+danfortheastyork,46400
+woodbinelumsden,46400
+taylormassey,32400
+eastenddanforth,46000
+thebeaches,61200
+woodbinecorridor,50000
+greenwoodcoxwell,44800
+danforth,46400
+playterestatesdanforth,49200
+northriverdale,54400
+blakejones,38400
+southriverdale,48800
+cabbagetownsouthstjamestown,46800
+regentpark,33200
+mosspark,42800
+northstjamestown,33600
+kensingtonchinatown,32400
+university,43200
+palmerstonlittleitaly,43200
+trinitybellwoods,40400
+dufferingrove,40800
+littleportugal,46000
+southparkdale,35200
+roncesvalles,45600
+highparkswansea,56400
+highparknorth,48400
+runnymedebloorwestvillage,60400
+junctionarea,47200
+westonpelhampark,35600
+corsoitaliadavenport,41200
+wychwood,43600
+annex,51600
+casaloma,60000
+yongestclair,62400
+rosedalemoorepark,67500
+mountpleasanteast,58400
+yongeeglinton,55200
+foresthillsouth,61600
+foresthillnorth,44400
+lawrenceparksouth,67500
+lawrenceparknorth,68000
+humewoodcedarvale,45200
+oakwoodvillage,37600
+briarhillbelgravia,37200
+caledoniafairbank,37200
+keelesdaleeglintonwest,33200
+rockcliffesmythe,34400
+beechboroughgreenbrook,34000
+weston,34800
+lambtonbabypoint,48800
+mountdennis,34800
+steeles,29200
+tamoshantersullivan,32800
+wexford/maryvale,35200
+clairleabirchmount,36800
+oakridge,29400
+birchcliffecliffside,44000
+cliffcrest,38000
+kennedypark,32000
+ionview,34000
+dorsetpark,33200
+agincourtsouthmalvernwest,32000
+agincourtnorth,30000
+milliken,28400
+centennialscarborough,48800
+highlandcreek,36400
+morningside,34400
+westhill,33200
+eglintoneast,33200
+scarboroughvillage,32400
+guildwood,48000
+golfdalecedarbraewoburn,31200
+woburnnorth,32400
+westrouge,42000
+morningsideheights,34800
+malvernwest,31600
+malverneast,33200
+lamoreauxwest,31400
+eastlamoreaux,31000
+parkwoodsoconnorhills,39200
+fensideparkwoods,36000
+yongedoris,36400
+eastwillowdale,36800
+avondale,46400
+oakdalebeverleyheights,33600
+downsview,37600
+bendaleglenandrew,34000
+bendalesouth,33200
+islington,45600
+etobicokecitycentre,46000
+mimicoqueensway,45200
+humberbayshores,53200
+westqueenwest,65500
+fortyorklibertyvillage,64500
+wellingtonplace,67000
+harbourfrontcityplace,58800
+stlawrenceeastbayfronttheislands,58000
+churchwellesley,42800
+downtownyongeeast,45200
+baycloverhill,39600
+yongebaycorridor,44000
+junctionwallaceemerson,41200
+dovercourtvillage,38000
+northtoronto,46000
+southeglintondavisville,52400
