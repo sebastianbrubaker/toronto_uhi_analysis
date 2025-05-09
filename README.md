@@ -1,2 +1,2 @@
 # Toronto-UHI-Analysis
-Gauging location and severity of Urban Heat Islands in the City of Toronto
+Assessing the relationship between median income and land surface temperature in the City of Toronto
