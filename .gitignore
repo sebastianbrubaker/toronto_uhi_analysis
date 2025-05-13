@@ -1,8 +1,8 @@
 # Ignore .DS_Store
 .DS_Store
 
-# Raster data
-data/rs/
+# Data
+data/
 
 # Python
 __pycache__/
