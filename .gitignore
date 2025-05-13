@@ -21,4 +21,4 @@ venv/
 .vscode/
 
 # Figures
-LST_flowchart.jpeg
+figures/
